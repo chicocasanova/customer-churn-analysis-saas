@@ -53,6 +53,7 @@ Com base nos achados, foram sugeridas ações como:
 ## 📁 Estrutura do Repositório
 - `churn_analysis.ipynb`: notebook principal com toda a análise
 - `README.md`: descrição do projeto e principais conclusões
+- `requirements.md`: bibliotecas necessárias para execução do notebook
 
 ---
 
@@ -64,5 +65,5 @@ Com base nos achados, foram sugeridas ações como:
 ---
 
 ## 👤 Autor
-Seu Nome  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+Francisco Antonio A. C. Casanova
+[LinkedIn](https://www.linkedin.com/in/chicocasanova/) | [GitHub](https://github.com/chicocasanova/)
