@@ -51,18 +51,15 @@ Com base nos achados, foram sugeridas ações como:
 ---
 
 ## 📁 Estrutura do Repositório
-- `churn_analysis.ipynb`: notebook principal com toda a análise
+- `churn_analysis.ipynb`: notebook principal com toda a análise (EDA, insights e recomendações)
+- `customer_churn_with_months.csv`: base de dados utilizada na análise
+- `requirements.txt`: dependências do projeto
 - `README.md`: descrição do projeto e principais conclusões
+- `LICENSE`: licença do repositório
+- `.gitignore`: arquivos e pastas ignorados pelo Git
 
 ---
 
 ## 🚀 Próximos Passos
 - Desenvolvimento de modelos preditivos de churn
 - Monitoramento do impacto das ações sugeridas
-- Evolução para análises causais e experimentação
-
----
-
-## 👤 Autor
-Seu Nome  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
